@@ -26,7 +26,14 @@ a{color:inherit;text-decoration:none}; */
     margin-top: 4rem;
     margin-bottom: 4rem;
 }
-
+.heading {
+	margin-top: 4rem;
+}
+.images {
+	position: absolute;
+	left: 10%;
+	top: -40%;
+}
 
 .login-wrap{
 	width:100%;
